@@ -68,6 +68,7 @@ background-color:blue;
 padding:5%;
 width:100%;
 height:400px;
+margin-bottom:5%;
 }	
 .d1-tb{
 background-color:green;
@@ -82,7 +83,6 @@ width:47.5%;
 background-color:blue;
 margin-top:5%;
 width:100%;
-margin-bottom:5%;
 }	
 }
 
@@ -90,6 +90,7 @@ margin-bottom:5%;
 .row{
 padding:5%;
 width:100%;
+margin-bottom:5%;
 }	
 .d1-cl{
 background-color:green;
@@ -103,7 +104,6 @@ width:100%;
 .d3-cl{
 background-color:blue;
 margin-top:5%;
-width:100%;	
-margin-bottom:5%;	
+width:100%;		
 }
 }
